@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+  #job_listing {
+    margin-top: 90px;
+  }
+  .marketing {
+    margin-bottom: 10px;
+  }
+  .footer {
+    padding-top: 15% !important;
+  }
+
+  .jumbotron {
+   background-image: url('../img/background-2.jpg');
+   background-position: top;
+   background-repeat: no-repeat;
+   background-size: cover;
+   text-align: center;
+}
+.form {
+  display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.job-title {
+  color: #18BC9C;
+}
+
+.navbar-links {
+  position: relative;
+  right: 0px;
+}
+.title-link {
+  text-decoration: underline;
+}
+.title-link:hover {
+  text-decoration: none;
+  filter: contrast(35%);
+}
+
+#alert-msg {
+  margin-top: 100px !important;
+}
+
+.my-nav {
+  margin-bottom: 10% !important;
+}
